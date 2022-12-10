@@ -1,0 +1,6 @@
+Name			Roll Number		Age		GPA		City
+Muhammad Ahil		L1F21BSCS1108		20		4.0		Lahore
+Abdul Naffey		L1F21BSCS0516		21		3.9		Lahore
+Abdullah Nadeem		L1F21BSCS1106		19		3.8		Lahore
+Anam Zakir		L1F21BSCS1103		19		4.0		Lahore
+Minal Shafqat		L1F21BSCS0500		18		3.5		Lahore

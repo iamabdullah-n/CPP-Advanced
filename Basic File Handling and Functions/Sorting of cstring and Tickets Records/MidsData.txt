@@ -1,0 +1,4 @@
+Categories	    Ticket Price	Tickets Sold
+Basic		    25              200
+Sideline	    75  	    	170
+Premium		    100		        150
